@@ -2,10 +2,16 @@
 - 👀 I’m interested in Business Analytics and Data Visualitazation 
 - 🌱 I’m currently enrolled in the Msc. Digital Business and Artificial Intelligence at Skema Business School
 
+<div>
+ <img align="center" alt="Rafa-Python" height="250" src="https://github.com/gxxdx/gxxdx/blob/main/Guido_Navia_Banner.PNG">
+</div>
+
+
 ## 👨🏽‍💻 Programs I work with
 <div>
  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+</div>
  
 ## 📬 Connect with me
   
