@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Guido
 - 👀 I’m interested in Business Analytics and Data Visualitazation 
-- 🌱 Enrolled in the Msc. Digital Business and Artificial Intelligence at Skema Business School
+- 👨🏽‍💻 Product Specialist at Mail Boxes Etc 
 
 <div>
  <img align="center" alt="Rafa-Python" src="https://github.com/gxxdx/gxxdx/blob/main/Guido_Navia_Banner.PNG">
